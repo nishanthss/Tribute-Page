@@ -1,0 +1,29 @@
+#title{
+text-align:center;
+}
+#main{
+max-width:700px;
+max-height:1000px;
+text-align:justify;
+margin:auto;
+}
+#img-div{
+width: auto;
+object-fit: contain;
+text-align:center;
+}
+#image{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin:auto;
+  }
+  img{
+    width:200px;
+    height:250px;
+  }
+footer{
+text-align:center;
+background-color:gray;
+height:50px;
+}
