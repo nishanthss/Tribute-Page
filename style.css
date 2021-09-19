@@ -1,11 +1,21 @@
 #title{
 text-align:center;
 }
+body{
+  margin:10px;
+}
 #main{
-max-width:100%;
-max-height:auto;
+width:100%;
+height:auto;
 text-align:justify;
 margin:auto;
+}
+#img-caption{
+  font-size: 14px;
+}
+#tribute-info{
+box-sizing: border-box;
+padding: 20px;
 }
 #img-div{
 width: auto;
@@ -25,6 +35,6 @@ text-align:center;
 footer{
 text-align:center;
 background-color:gray;
-height:70px;
-font-size:30px;
+height:80px;
+font-size: 40px;
 }
